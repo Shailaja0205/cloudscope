@@ -16,7 +16,3 @@ CloudScope is a centralized monitoring platform that collects infrastructure met
 - Google Cloud
 - Terraform
 - Ansible
-
-## Project Status
-
-🚧 Phase 1 - Project Initialization
